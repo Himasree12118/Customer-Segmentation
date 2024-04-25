@@ -1,0 +1,7 @@
+The objective is to develop a model that predicts customer behaviour and to apply it to the rest 
+of the customer basis maximizing the profit of campaign and characteristic 
+features of those customers who are willing to buy the gadget.
+Steps:
+data exploration
+segmentation
+classification model
